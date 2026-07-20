@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406B1C1A-DFF2-4004-B2E4-E31C4267CBDC}|EnterpriseECommerce.Domain\\EnterpriseECommerce.Domain.csproj|c:\\users\\sanja\\onedrive\\documents\\enterprise-ecommerce-system\\backend\\enterpriseecommerce\\enterpriseecommerce.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B1C1A-DFF2-4004-B2E4-E31C4267CBDC}|EnterpriseECommerce.Domain\\EnterpriseECommerce.Domain.csproj|solutionrelative:enterpriseecommerce.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B1C1A-DFF2-4004-B2E4-E31C4267CBDC}|EnterpriseECommerce.Domain\\EnterpriseECommerce.Domain.csproj|c:\\users\\sanja\\onedrive\\documents\\enterprise-ecommerce-system\\backend\\enterpriseecommerce\\enterpriseecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B1C1A-DFF2-4004-B2E4-E31C4267CBDC}|EnterpriseECommerce.Domain\\EnterpriseECommerce.Domain.csproj|solutionrelative:enterpriseecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E907FC31-5CA2-469A-8E72-BF12B3F96912}|EnterpriseECommerce.API\\EnterpriseECommerce.API.csproj|c:\\users\\sanja\\onedrive\\documents\\enterprise-ecommerce-system\\backend\\enterpriseecommerce\\enterpriseecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E907FC31-5CA2-469A-8E72-BF12B3F96912}|EnterpriseECommerce.API\\EnterpriseECommerce.API.csproj|solutionrelative:enterpriseecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "EnterpriseECommerce.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "EnterpriseECommerce.Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:10:24.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "EnterpriseECommerce.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "EnterpriseECommerce.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwBwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T15:06:05.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "EnterpriseECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sanja\\OneDrive\\Documents\\Enterprise-ECommerce-System\\Backend\\EnterpriseECommerce\\EnterpriseECommerce.API\\Program.cs",
+              "RelativeToolTip": "EnterpriseECommerce.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T18:50:38.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
